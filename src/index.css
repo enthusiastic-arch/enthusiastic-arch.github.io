@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.neno-button {
+    transition: all 0.3s ease-in-out;
+}
